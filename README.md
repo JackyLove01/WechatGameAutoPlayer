@@ -1,0 +1,2 @@
+# WechatGameAutoPlayer
+Python
