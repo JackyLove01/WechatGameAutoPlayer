@@ -1,2 +1,2 @@
 # WechatGameAutoPlayer
-Python
+Using Python Play the Wechat Games
